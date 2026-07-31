@@ -21,8 +21,10 @@ export default function Certificate({ username, house, score, total, onPlayAgain
     setError(null)
     try {
       await exportNodeToPng(cardRef.current, { username, house })
-    } catch {
-      setError('Could not generate the certificate. Please try again.')
+    } catch (err) {
+      if (err?.name !== 'AbortError') {
+        setError('Could not generate the certificate. Please try again.')
+      }
     } finally {
       setDownloading(false)
     }
