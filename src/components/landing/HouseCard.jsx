@@ -6,13 +6,13 @@ export default function HouseCard({ house, selected, onSelect }) {
     <motion.button
       type="button"
       onClick={() => onSelect(house.key)}
-      className={`themed-transition group flex flex-col items-center gap-2 rounded-2xl border px-3 py-4 ${
+      className={`themed-transition group flex min-w-[7rem] flex-col items-center gap-3 rounded-2xl border px-4 py-5 ${
         selected
           ? 'border-[var(--theme-secondary)] bg-[rgba(var(--theme-primary-rgb),0.35)] shadow-[0_0_28px_rgba(var(--theme-secondary-rgb),0.4)]'
           : 'border-[rgba(244,236,216,0.15)] bg-[rgba(10,15,30,0.4)] hover:border-[rgba(244,236,216,0.4)]'
       }`}
       style={selected ? { '--theme-primary-rgb': house.primaryRgb, '--theme-secondary-rgb': house.secondaryRgb } : undefined}
-      whileHover={{ y: -4 }}
+      whileHover={{ y: -4, scale: 1.03 }}
       whileTap={{ scale: 0.96 }}
     >
       <HouseCrest houseKey={house.key} src={house.crest} size="md" glow={selected} />

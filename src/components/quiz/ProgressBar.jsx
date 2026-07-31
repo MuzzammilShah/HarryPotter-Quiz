@@ -6,8 +6,11 @@ export default function ProgressBar({ current, total }) {
   return (
     <div className="relative h-1.5 w-full max-w-xs rounded-full bg-[rgba(244,236,216,0.15)]">
       <motion.div
-        className="h-full rounded-full bg-[var(--theme-secondary)]"
-        style={{ boxShadow: '0 0 12px rgba(var(--theme-secondary-rgb), 0.7)' }}
+        className="h-full rounded-full"
+        style={{
+          backgroundColor: 'var(--theme-secondary)',
+          boxShadow: '0 0 12px rgba(var(--theme-secondary-rgb), 0.7)',
+        }}
         initial={false}
         animate={{ width: `${pct}%` }}
         transition={{ duration: 0.5, ease: 'easeOut' }}

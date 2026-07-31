@@ -4,7 +4,7 @@ import { exportNodeToPng } from '../../lib/certificateExport'
 import CertificateCard from './CertificateCard'
 import CertificateActions from './CertificateActions'
 
-export default function Certificate({ username, house, score, total, onPlayAgain, onDownloaded }) {
+export default function Certificate({ username, house, score, total, onPlayAgain }) {
   const cardRef = useRef(null)
   const [downloading, setDownloading] = useState(false)
   const [error, setError] = useState(null)
@@ -21,7 +21,6 @@ export default function Certificate({ username, house, score, total, onPlayAgain
     setError(null)
     try {
       await exportNodeToPng(cardRef.current, { username, house })
-      onDownloaded()
     } catch {
       setError('Could not generate the certificate. Please try again.')
     } finally {

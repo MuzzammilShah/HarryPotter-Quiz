@@ -33,10 +33,6 @@ function App() {
     resetSession()
   }, [resetSession])
 
-  const handleCertificateDownloaded = useCallback(() => {
-    resetSession()
-  }, [resetSession])
-
   return (
     <AppShell house={house}>
       {screen === 'landing' && (
@@ -69,7 +65,6 @@ function App() {
           score={quiz.score}
           total={total}
           onPlayAgain={handlePlayAgain}
-          onDownloaded={handleCertificateDownloaded}
         />
       )}
     </AppShell>

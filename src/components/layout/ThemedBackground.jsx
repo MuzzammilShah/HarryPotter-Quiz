@@ -7,7 +7,7 @@ export default function ThemedBackground({ theme }) {
   const { failed, onError } = useImageFallback(theme.background)
 
   return (
-    <div className="themed-transition absolute inset-0 -z-10" aria-hidden="true">
+    <div className="themed-transition absolute inset-0 -z-10 overflow-hidden" aria-hidden="true">
       {!failed && (
         <img
           key={theme.key}
@@ -30,6 +30,11 @@ export default function ThemedBackground({ theme }) {
               }
         }
       />
+
+      {/* pulsing edge glows: left/right on desktop, top/bottom on mobile */}
+      <div className="edge-glow edge-glow-a themed-transition" />
+      <div className="edge-glow edge-glow-b themed-transition" />
+
       <div
         className="absolute inset-0"
         style={{

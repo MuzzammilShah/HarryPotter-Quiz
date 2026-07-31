@@ -1,4 +1,4 @@
-import { toPng } from 'html-to-image'
+import html2canvas from 'html2canvas'
 
 function sanitizeForFilename(text) {
   const cleaned = text.replace(/[^a-zA-Z0-9-_]+/g, '-').replace(/^-+|-+$/g, '')
@@ -6,11 +6,16 @@ function sanitizeForFilename(text) {
 }
 
 export async function exportNodeToPng(node, { username, house }) {
-  const dataUrl = await toPng(node, {
-    pixelRatio: 2,
-    cacheBust: true,
-    backgroundColor: undefined,
+  if (document.fonts?.ready) {
+    await document.fonts.ready
+  }
+
+  const canvas = await html2canvas(node, {
+    backgroundColor: '#060a18',
+    scale: 2,
+    useCORS: true,
   })
+  const dataUrl = canvas.toDataURL('image/png')
 
   const filename = `hogwarts-certificate-${sanitizeForFilename(username)}-${house ?? 'wizard'}.png`
   const link = document.createElement('a')
