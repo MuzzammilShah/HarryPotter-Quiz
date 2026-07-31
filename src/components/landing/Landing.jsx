@@ -8,7 +8,7 @@ export default function Landing({ username, house, onUsernameChange, onHouseChan
   const canBegin = username.trim().length > 0 && Boolean(house)
 
   return (
-    <div className="flex flex-1 flex-col items-center justify-center gap-8 px-6 py-12">
+    <div className="flex flex-1 flex-col items-center justify-center gap-6 px-4 py-8 sm:gap-8 sm:px-6 sm:py-12">
       <motion.img
         src={LOGOS.title}
         alt="The Wizarding World of Harry Potter"
@@ -19,7 +19,7 @@ export default function Landing({ username, house, onUsernameChange, onHouseChan
       />
 
       <motion.h1
-        className="text-glow-gold text-center font-display text-2xl font-semibold text-[#f4ecd8] sm:text-3xl"
+        className="text-glow-gold text-center font-display text-xl font-semibold text-[#f4ecd8] sm:text-3xl"
         initial={{ opacity: 0, y: 12 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.6, delay: 0.15 }}
@@ -28,7 +28,7 @@ export default function Landing({ username, house, onUsernameChange, onHouseChan
       </motion.h1>
 
       <motion.div
-        className="flex w-full flex-col items-center gap-8"
+        className="flex w-full flex-col items-center gap-6 sm:gap-8"
         initial={{ opacity: 0, y: 12 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.6, delay: 0.3 }}

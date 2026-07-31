@@ -10,12 +10,16 @@ export default function Footer() {
   return (
     <footer className="relative z-10 mt-auto flex w-full flex-col items-center gap-3 px-6 py-6 text-center sm:flex-row sm:justify-between sm:text-left">
       <p className="font-footer text-xs text-[rgba(244,236,216,0.55)]">
-        Built for fun on Harry Potter's birthday by{' '}
+        Built for fun on{' '}
+        <span className="cursor-help underline decoration-dotted underline-offset-2" title="31st July, 2026">
+          Harry Potter's birthday
+        </span>{' '}
+        by{' '}
         <a
           href="https://muhammedshah.com"
           target="_blank"
           rel="noopener noreferrer"
-          className="font-semibold text-[rgba(244,236,216,0.85)] hover:text-[#f4ecd8]"
+          className="text-[rgba(244,236,216,0.55)] hover:text-[#f4ecd8]"
         >
           Muhammed Shah
         </a>{' '}

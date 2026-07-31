@@ -12,9 +12,9 @@ export default function Results({ score, total, onViewCertificate, onPlayAgain }
   const { failed: patronusFailed, onError: onPatronusError } = useImageFallback(DECOR.patronusStag)
 
   return (
-    <div className="flex flex-1 flex-col items-center justify-center gap-8 px-6 py-12 text-center">
+    <div className="flex flex-1 flex-col items-center justify-center gap-6 px-4 py-8 text-center sm:gap-8 sm:px-6 sm:py-12">
       <motion.p
-        className="font-ui text-sm uppercase tracking-[0.25em] text-[rgba(244,236,216,0.7)]"
+        className="font-ui text-xs uppercase tracking-[0.25em] text-[rgba(244,236,216,0.7)] sm:text-sm"
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
       >
@@ -28,7 +28,7 @@ export default function Results({ score, total, onViewCertificate, onPlayAgain }
           src={DECOR.patronusStag}
           onError={onPatronusError}
           alt=""
-          className="h-28 w-28 opacity-80"
+          className="h-20 w-20 opacity-80 sm:h-28 sm:w-28"
           initial={{ opacity: 0, scale: 0.8 }}
           animate={{ opacity: 0.8, scale: 1 }}
           transition={{ delay: 0.6, duration: 0.6 }}
@@ -38,7 +38,7 @@ export default function Results({ score, total, onViewCertificate, onPlayAgain }
       <RankBadge rank={rank} />
 
       <motion.div
-        className="mt-4 flex flex-col items-center gap-3 sm:flex-row"
+        className="mt-3 flex flex-col items-center gap-2 sm:mt-4 sm:flex-row sm:gap-3"
         initial={{ opacity: 0, y: 10 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.5, delay: 0.6 }}

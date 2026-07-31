@@ -68,8 +68,8 @@ export default function Quiz({ quizState, updateQuiz, onComplete }) {
   const selectedIndex = existingAnswer ? options.indexOf(existingAnswer.selected) : -1
 
   return (
-    <div className="flex flex-1 flex-col items-center justify-center gap-8 px-6 py-12">
-      <div className="flex w-full max-w-lg flex-col items-center gap-3">
+    <div className="flex flex-1 flex-col items-center justify-center gap-6 px-4 py-8 sm:gap-8 sm:px-6 sm:py-12">
+      <div className="flex w-full max-w-lg flex-col items-center gap-2 sm:gap-3">
         <ProgressBar current={currentIndex} total={total} />
         <p className="font-ui text-xs uppercase tracking-[0.2em] text-[rgba(244,236,216,0.6)]">
           Question {currentIndex + 1} of {total}

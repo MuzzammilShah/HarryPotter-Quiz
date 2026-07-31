@@ -21,21 +21,21 @@ function WhatsAppIcon({ className }) {
 
 export default function CertificateActions({ onDownload, downloading, shareUrl, onPlayAgain, error }) {
   return (
-    <div className="flex w-full max-w-md flex-col items-center gap-4">
-      <div className="flex w-full flex-col items-center gap-3 sm:flex-row sm:justify-center">
+    <div className="flex w-full max-w-md flex-col items-center gap-3 sm:gap-4">
+      <div className="flex w-full flex-col items-center gap-2 sm:flex-row sm:justify-center sm:gap-3">
         <MagicButton onClick={onDownload} disabled={downloading} size="sm">
-          <DownloadIcon className="h-4 w-4" />
+          <DownloadIcon className="h-3.5 w-3.5 sm:h-4 sm:w-4" />
           {downloading ? 'Preparing...' : 'Download Certificate'}
         </MagicButton>
         <a href={shareUrl} target="_blank" rel="noopener noreferrer">
           <MagicButton variant="ghost" size="sm">
-            <WhatsAppIcon className="h-4 w-4" />
+            <WhatsAppIcon className="h-3.5 w-3.5 sm:h-4 sm:w-4" />
             Share on WhatsApp
           </MagicButton>
         </a>
       </div>
 
-      {error && <p className="font-footer text-sm text-[var(--feedback-incorrect)]">{error}</p>}
+      {error && <p className="font-footer text-xs text-[var(--feedback-incorrect)] sm:text-sm">{error}</p>}
 
       <p className="max-w-xs text-center font-footer text-xs leading-relaxed text-[rgba(244,236,216,0.55)]">
         WhatsApp links can't attach images directly — download the certificate first, then attach it manually to
@@ -45,7 +45,7 @@ export default function CertificateActions({ onDownload, downloading, shareUrl, 
       <button
         type="button"
         onClick={onPlayAgain}
-        className="font-footer text-sm underline underline-offset-4 text-[rgba(244,236,216,0.7)] hover:text-[#f4ecd8]"
+        className="font-footer text-xs underline underline-offset-4 text-[rgba(244,236,216,0.7)] hover:text-[#f4ecd8] sm:text-sm"
       >
         Play Again
       </button>
