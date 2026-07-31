@@ -4,10 +4,19 @@ import { getTheme } from '../../config/houseThemes'
 import HouseCrest from '../common/HouseCrest'
 
 // Every color here is resolved to a literal value from `theme` rather than
-// a CSS custom property lookup (var(--theme-*)). html-to-image serializes
-// this subtree via an SVG foreignObject, and custom properties set via
-// style.setProperty() on a distant ancestor (AppShell) frequently don't
-// resolve inside that clone — silently producing a blank/white export.
+// a CSS custom property lookup (var(--theme-*)), since this node is captured
+// by html2canvas for the certificate PNG export and custom properties set
+// via style.setProperty() on a distant ancestor (AppShell) don't reliably
+// resolve there.
+//
+// The background uses a linear-gradient (not radial-gradient) and the border
+// glow is a plain outer box-shadow (no `inset`) deliberately — html2canvas
+// has known rendering bugs with positioned/sized radial-gradients (visible
+// tiling/seam artifacts) and with inset box-shadow (renders as a solid block
+// instead of a soft shadow). Both looked correct on-screen but produced
+// visible defects in the exported PNG; verified fixed by switching to these
+// simpler forms. Don't reintroduce radial-gradient or inset shadow here
+// without re-checking an actual exported PNG, not just the live page.
 const CertificateCard = forwardRef(function CertificateCard({ username, house, score, total, rank, date }, ref) {
   const theme = getTheme(house)
 
@@ -17,8 +26,8 @@ const CertificateCard = forwardRef(function CertificateCard({ username, house, s
       className="relative mx-auto flex w-full max-w-md flex-col items-center gap-5 overflow-hidden rounded-3xl border px-8 py-10 text-center"
       style={{
         borderColor: `rgba(${theme.secondaryRgb}, 0.55)`,
-        background: `radial-gradient(120% 100% at 50% 0%, rgba(${theme.primaryRgb},0.55), #060a18 70%)`,
-        boxShadow: `0 0 50px rgba(${theme.secondaryRgb}, 0.25), inset 0 0 40px rgba(0,0,0,0.5)`,
+        background: `linear-gradient(180deg, rgba(${theme.primaryRgb},0.55) 0%, #060a18 65%)`,
+        boxShadow: `0 0 50px rgba(${theme.secondaryRgb}, 0.25)`,
       }}
     >
       {/* corner house crests */}

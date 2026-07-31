@@ -23,7 +23,7 @@ export default function Footer() {
       </p>
 
       <a
-        href="https://github.com/MuzzammilShah/HarryPotter-Quiz.git"
+        href="https://github.com/MuzzammilShah/HarryPotter-Quiz"
         target="_blank"
         rel="noopener noreferrer"
         className="inline-flex items-center gap-2 font-footer text-xs text-[rgba(244,236,216,0.55)] hover:text-[#f4ecd8]"
