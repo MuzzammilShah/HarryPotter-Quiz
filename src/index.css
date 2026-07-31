@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&family=Inter:wght@400;500;600;700&display=swap');
+@import 'tailwindcss';
+
+:root {
+  --theme-primary: #0e1b3c;
+  --theme-primary-rgb: 14, 27, 60;
+  --theme-secondary: #d3a625;
+  --theme-secondary-rgb: 211, 166, 37;
+  --theme-accent: #5d82c1;
+  --feedback-correct: #22c55e;
+  --feedback-correct-rgb: 34, 197, 94;
+  --feedback-incorrect: #ef4444;
+  --feedback-incorrect-rgb: 239, 68, 68;
+
+  --font-display: 'Cinzel', 'Cormorant Garamond', serif;
+  --font-body: 'Cormorant Garamond', Georgia, serif;
+  --font-ui: 'Inter', system-ui, sans-serif;
+
+  color-scheme: dark;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-ui);
+  background-color: #05070f;
+  color: #f4ecd8;
+  overflow-x: hidden;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+.font-display {
+  font-family: var(--font-display);
+}
+
+.font-body {
+  font-family: var(--font-body);
+}
+
+.themed-transition {
+  transition:
+    background-color 700ms ease,
+    border-color 700ms ease,
+    box-shadow 700ms ease,
+    color 700ms ease;
+}
+
+.text-glow-gold {
+  text-shadow:
+    0 0 12px rgba(var(--theme-secondary-rgb), 0.55),
+    0 0 32px rgba(var(--theme-secondary-rgb), 0.25);
+}
+
+.scrollbar-none {
+  scrollbar-width: none;
+}
+.scrollbar-none::-webkit-scrollbar {
+  display: none;
+}

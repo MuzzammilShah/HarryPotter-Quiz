@@ -1,0 +1,2254 @@
+{
+  "questions": [
+    {
+      "id": "hp-001",
+      "movieNumber": 1,
+      "movie": "Harry Potter and the Sorcerer's Stone",
+      "difficulty": "easy",
+      "category": "Places",
+      "question": "What is the number of the platform Harry uses to board the Hogwarts Express?",
+      "options": [
+        "Platform 9¾",
+        "Platform 10",
+        "Platform 12",
+        "Platform 7½"
+      ],
+      "correctAnswer": "Platform 9¾"
+    },
+    {
+      "id": "hp-002",
+      "movieNumber": 1,
+      "movie": "Harry Potter and the Sorcerer's Stone",
+      "difficulty": "easy",
+      "category": "Plot",
+      "question": "What position does Harry play on the Gryffindor Quidditch team?",
+      "options": [
+        "Seeker",
+        "Keeper",
+        "Chaser",
+        "Beater"
+      ],
+      "correctAnswer": "Seeker"
+    },
+    {
+      "id": "hp-003",
+      "movieNumber": 1,
+      "movie": "Harry Potter and the Sorcerer's Stone",
+      "difficulty": "easy",
+      "category": "Characters",
+      "question": "What is the name of Harry's pet owl?",
+      "options": [
+        "Hedwig",
+        "Errol",
+        "Pigwidgeon",
+        "Fawkes"
+      ],
+      "correctAnswer": "Hedwig"
+    },
+    {
+      "id": "hp-004",
+      "movieNumber": 1,
+      "movie": "Harry Potter and the Sorcerer's Stone",
+      "difficulty": "easy",
+      "category": "Characters",
+      "question": "Who is the Hogwarts gamekeeper who personally delivers Harry's acceptance letter?",
+      "options": [
+        "Rubeus Hagrid",
+        "Argus Filch",
+        "Remus Lupin",
+        "Severus Snape"
+      ],
+      "correctAnswer": "Rubeus Hagrid"
+    },
+    {
+      "id": "hp-005",
+      "movieNumber": 1,
+      "movie": "Harry Potter and the Sorcerer's Stone",
+      "difficulty": "easy",
+      "category": "Plot",
+      "question": "Which house does the Sorting Hat seriously consider for Harry before placing him in Gryffindor?",
+      "options": [
+        "Slytherin",
+        "Hufflepuff",
+        "Ravenclaw",
+        "Gryffindor"
+      ],
+      "correctAnswer": "Slytherin"
+    },
+    {
+      "id": "hp-006",
+      "movieNumber": 1,
+      "movie": "Harry Potter and the Sorcerer's Stone",
+      "difficulty": "easy",
+      "category": "Creatures",
+      "question": "What is the name of the three-headed dog guarding the trapdoor?",
+      "options": [
+        "Fluffy",
+        "Fang",
+        "Norbert",
+        "Buckbeak"
+      ],
+      "correctAnswer": "Fluffy"
+    },
+    {
+      "id": "hp-007",
+      "movieNumber": 1,
+      "movie": "Harry Potter and the Sorcerer's Stone",
+      "difficulty": "easy",
+      "category": "Characters",
+      "question": "Who teaches Potions during Harry's first year at Hogwarts?",
+      "options": [
+        "Severus Snape",
+        "Minerva McGonagall",
+        "Quirinus Quirrell",
+        "Filius Flitwick"
+      ],
+      "correctAnswer": "Severus Snape"
+    },
+    {
+      "id": "hp-008",
+      "movieNumber": 1,
+      "movie": "Harry Potter and the Sorcerer's Stone",
+      "difficulty": "easy",
+      "category": "Creatures",
+      "question": "What creature does Hagrid illegally hatch from an egg in his hut?",
+      "options": [
+        "A dragon",
+        "A phoenix",
+        "A hippogriff",
+        "A basilisk"
+      ],
+      "correctAnswer": "A dragon"
+    },
+    {
+      "id": "hp-009",
+      "movieNumber": 1,
+      "movie": "Harry Potter and the Sorcerer's Stone",
+      "difficulty": "easy",
+      "category": "Characters",
+      "question": "Who is the Headmaster of Hogwarts?",
+      "options": [
+        "Albus Dumbledore",
+        "Cornelius Fudge",
+        "Argus Filch",
+        "Horace Slughorn"
+      ],
+      "correctAnswer": "Albus Dumbledore"
+    },
+    {
+      "id": "hp-010",
+      "movieNumber": 1,
+      "movie": "Harry Potter and the Sorcerer's Stone",
+      "difficulty": "medium",
+      "category": "Places",
+      "question": "In which vault is the Philosopher's Stone originally kept at Gringotts?",
+      "options": [
+        "Vault 713",
+        "Vault 687",
+        "Vault 101",
+        "Vault 999"
+      ],
+      "correctAnswer": "Vault 713"
+    },
+    {
+      "id": "hp-011",
+      "movieNumber": 1,
+      "movie": "Harry Potter and the Sorcerer's Stone",
+      "difficulty": "medium",
+      "category": "Magic & Objects",
+      "question": "What magical object shows a person their deepest desire?",
+      "options": [
+        "The Mirror of Erised",
+        "The Pensieve",
+        "The Marauder's Map",
+        "The Goblet of Fire"
+      ],
+      "correctAnswer": "The Mirror of Erised"
+    },
+    {
+      "id": "hp-012",
+      "movieNumber": 1,
+      "movie": "Harry Potter and the Sorcerer's Stone",
+      "difficulty": "medium",
+      "category": "Plot",
+      "question": "Which professor is secretly sharing his body with Voldemort?",
+      "options": [
+        "Quirinus Quirrell",
+        "Severus Snape",
+        "Gilderoy Lockhart",
+        "Remus Lupin"
+      ],
+      "correctAnswer": "Quirinus Quirrell"
+    },
+    {
+      "id": "hp-013",
+      "movieNumber": 1,
+      "movie": "Harry Potter and the Sorcerer's Stone",
+      "difficulty": "easy",
+      "category": "Magic & Objects",
+      "question": "What game do Ron, Harry, and Hermione play using giant, living pieces to guard the Stone?",
+      "options": [
+        "Wizard's Chess",
+        "Exploding Snap",
+        "Gobstones",
+        "Quidditch"
+      ],
+      "correctAnswer": "Wizard's Chess"
+    },
+    {
+      "id": "hp-014",
+      "movieNumber": 1,
+      "movie": "Harry Potter and the Sorcerer's Stone",
+      "difficulty": "medium",
+      "category": "Characters",
+      "question": "Who captains the Gryffindor Quidditch team in Harry's first year?",
+      "options": [
+        "Oliver Wood",
+        "George Weasley",
+        "Fred Weasley",
+        "Angelina Johnson"
+      ],
+      "correctAnswer": "Oliver Wood"
+    },
+    {
+      "id": "hp-015",
+      "movieNumber": 1,
+      "movie": "Harry Potter and the Sorcerer's Stone",
+      "difficulty": "easy",
+      "category": "Plot",
+      "question": "Which house wins the House Cup at the end of the film?",
+      "options": [
+        "Gryffindor",
+        "Slytherin",
+        "Hufflepuff",
+        "Ravenclaw"
+      ],
+      "correctAnswer": "Gryffindor"
+    },
+    {
+      "id": "hp-016",
+      "movieNumber": 1,
+      "movie": "Harry Potter and the Sorcerer's Stone",
+      "difficulty": "easy",
+      "category": "Characters",
+      "question": "What is the name of Ron's pet rat?",
+      "options": [
+        "Scabbers",
+        "Trevor",
+        "Crookshanks",
+        "Errol"
+      ],
+      "correctAnswer": "Scabbers"
+    },
+    {
+      "id": "hp-017",
+      "movieNumber": 1,
+      "movie": "Harry Potter and the Sorcerer's Stone",
+      "difficulty": "medium",
+      "category": "Plot",
+      "question": "What position does Draco Malfoy play for the Slytherin Quidditch team?",
+      "options": [
+        "Seeker",
+        "Keeper",
+        "Chaser",
+        "Beater"
+      ],
+      "correctAnswer": "Seeker"
+    },
+    {
+      "id": "hp-018",
+      "movieNumber": 1,
+      "movie": "Harry Potter and the Sorcerer's Stone",
+      "difficulty": "medium",
+      "category": "Places",
+      "question": "What is the name of the pub in Diagon Alley where Hagrid first takes Harry?",
+      "options": [
+        "The Leaky Cauldron",
+        "The Three Broomsticks",
+        "The Hog's Head",
+        "The Green Dragon"
+      ],
+      "correctAnswer": "The Leaky Cauldron"
+    },
+    {
+      "id": "hp-019",
+      "movieNumber": 2,
+      "movie": "Harry Potter and the Chamber of Secrets",
+      "difficulty": "easy",
+      "category": "Plot",
+      "question": "What flying vehicle do Harry and Ron use to reach Hogwarts after missing the train?",
+      "options": [
+        "Mr. Weasley's flying Ford Anglia",
+        "The Knight Bus",
+        "A flying motorbike",
+        "Buckbeak"
+      ],
+      "correctAnswer": "Mr. Weasley's flying Ford Anglia"
+    },
+    {
+      "id": "hp-020",
+      "movieNumber": 2,
+      "movie": "Harry Potter and the Chamber of Secrets",
+      "difficulty": "easy",
+      "category": "Characters",
+      "question": "Which house-elf tries to stop Harry from returning to Hogwarts?",
+      "options": [
+        "Dobby",
+        "Kreacher",
+        "Winky",
+        "Griphook"
+      ],
+      "correctAnswer": "Dobby"
+    },
+    {
+      "id": "hp-021",
+      "movieNumber": 2,
+      "movie": "Harry Potter and the Chamber of Secrets",
+      "difficulty": "easy",
+      "category": "Creatures",
+      "question": "What creature is secretly petrifying students at Hogwarts?",
+      "options": [
+        "A Basilisk",
+        "A Manticore",
+        "A Dementor",
+        "An Acromantula"
+      ],
+      "correctAnswer": "A Basilisk"
+    },
+    {
+      "id": "hp-022",
+      "movieNumber": 2,
+      "movie": "Harry Potter and the Chamber of Secrets",
+      "difficulty": "medium",
+      "category": "Plot",
+      "question": "Whose diary turns out to be controlling events in the Chamber of Secrets?",
+      "options": [
+        "Tom Riddle's",
+        "Lucius Malfoy's",
+        "Gilderoy Lockhart's",
+        "Ginny Weasley's"
+      ],
+      "correctAnswer": "Tom Riddle's"
+    },
+    {
+      "id": "hp-023",
+      "movieNumber": 2,
+      "movie": "Harry Potter and the Chamber of Secrets",
+      "difficulty": "medium",
+      "category": "Magic & Objects",
+      "question": "What potion do Harry and Ron brew to disguise themselves as Crabbe and Goyle?",
+      "options": [
+        "Polyjuice Potion",
+        "Veritaserum",
+        "Felix Felicis",
+        "Amortentia"
+      ],
+      "correctAnswer": "Polyjuice Potion"
+    },
+    {
+      "id": "hp-024",
+      "movieNumber": 2,
+      "movie": "Harry Potter and the Chamber of Secrets",
+      "difficulty": "easy",
+      "category": "Characters",
+      "question": "Which Defense Against the Dark Arts teacher turns out to be a fraud?",
+      "options": [
+        "Gilderoy Lockhart",
+        "Remus Lupin",
+        "Quirinus Quirrell",
+        "Dolores Umbridge"
+      ],
+      "correctAnswer": "Gilderoy Lockhart"
+    },
+    {
+      "id": "hp-025",
+      "movieNumber": 2,
+      "movie": "Harry Potter and the Chamber of Secrets",
+      "difficulty": "medium",
+      "category": "Creatures",
+      "question": "Whose cry is fatal to anyone who hears it directly?",
+      "options": [
+        "A Mandrake's",
+        "A Basilisk's",
+        "A Banshee's",
+        "A Siren's"
+      ],
+      "correctAnswer": "A Mandrake's"
+    },
+    {
+      "id": "hp-026",
+      "movieNumber": 2,
+      "movie": "Harry Potter and the Chamber of Secrets",
+      "difficulty": "medium",
+      "category": "Magic & Objects",
+      "question": "What rare magical ability does Harry discover he shares with Voldemort?",
+      "options": [
+        "Speaking Parseltongue",
+        "Flying without a broom",
+        "Casting wandless magic",
+        "Reading minds"
+      ],
+      "correctAnswer": "Speaking Parseltongue"
+    },
+    {
+      "id": "hp-027",
+      "movieNumber": 2,
+      "movie": "Harry Potter and the Chamber of Secrets",
+      "difficulty": "medium",
+      "category": "Plot",
+      "question": "Who is revealed to be the person possessed and controlled through the diary?",
+      "options": [
+        "Ginny Weasley",
+        "Hermione Granger",
+        "Luna Lovegood",
+        "Moaning Myrtle"
+      ],
+      "correctAnswer": "Ginny Weasley"
+    },
+    {
+      "id": "hp-028",
+      "movieNumber": 2,
+      "movie": "Harry Potter and the Chamber of Secrets",
+      "difficulty": "medium",
+      "category": "Magic & Objects",
+      "question": "What does Harry use to destroy Tom Riddle's diary?",
+      "options": [
+        "A Basilisk fang",
+        "The Elder Wand",
+        "A Killing Curse",
+        "Fiendfyre"
+      ],
+      "correctAnswer": "A Basilisk fang"
+    },
+    {
+      "id": "hp-029",
+      "movieNumber": 2,
+      "movie": "Harry Potter and the Chamber of Secrets",
+      "difficulty": "easy",
+      "category": "Characters",
+      "question": "Which phoenix comes to Harry's aid in the Chamber of Secrets?",
+      "options": [
+        "Fawkes",
+        "Hedwig",
+        "Pigwidgeon",
+        "Errol"
+      ],
+      "correctAnswer": "Fawkes"
+    },
+    {
+      "id": "hp-030",
+      "movieNumber": 2,
+      "movie": "Harry Potter and the Chamber of Secrets",
+      "difficulty": "medium",
+      "category": "Magic & Objects",
+      "question": "What does Harry use to slay the Basilisk?",
+      "options": [
+        "The Sword of Gryffindor",
+        "The Elder Wand",
+        "Godric Gryffindor's dagger",
+        "A Basilisk fang"
+      ],
+      "correctAnswer": "The Sword of Gryffindor"
+    },
+    {
+      "id": "hp-031",
+      "movieNumber": 2,
+      "movie": "Harry Potter and the Chamber of Secrets",
+      "difficulty": "easy",
+      "category": "Characters",
+      "question": "What is the name of Filch's cat?",
+      "options": [
+        "Mrs. Norris",
+        "Crookshanks",
+        "Trevor",
+        "Scabbers"
+      ],
+      "correctAnswer": "Mrs. Norris"
+    },
+    {
+      "id": "hp-032",
+      "movieNumber": 2,
+      "movie": "Harry Potter and the Chamber of Secrets",
+      "difficulty": "medium",
+      "category": "Creatures",
+      "question": "What creatures do Ron and Harry encounter in a colony deep in the Forbidden Forest?",
+      "options": [
+        "Acromantulas (giant spiders)",
+        "Nifflers",
+        "Thestrals",
+        "Blast-Ended Skrewts"
+      ],
+      "correctAnswer": "Acromantulas (giant spiders)"
+    },
+    {
+      "id": "hp-033",
+      "movieNumber": 2,
+      "movie": "Harry Potter and the Chamber of Secrets",
+      "difficulty": "medium",
+      "category": "Creatures",
+      "question": "What is the name of the giant spider who is Hagrid's old friend?",
+      "options": [
+        "Aragog",
+        "Fluffy",
+        "Buckbeak",
+        "Fang"
+      ],
+      "correctAnswer": "Aragog"
+    },
+    {
+      "id": "hp-034",
+      "movieNumber": 2,
+      "movie": "Harry Potter and the Chamber of Secrets",
+      "difficulty": "medium",
+      "category": "Plot",
+      "question": "How does Dobby try to keep Harry from Hogwarts during a Quidditch match?",
+      "options": [
+        "By bewitching a Bludger to target him",
+        "By stealing his broom",
+        "By locking him in a classroom",
+        "By hiding his wand"
+      ],
+      "correctAnswer": "By bewitching a Bludger to target him"
+    },
+    {
+      "id": "hp-035",
+      "movieNumber": 2,
+      "movie": "Harry Potter and the Chamber of Secrets",
+      "difficulty": "medium",
+      "category": "Plot",
+      "question": "What does Harry trick Lucius Malfoy into doing, which frees Dobby?",
+      "options": [
+        "Giving Dobby a sock",
+        "Signing a contract",
+        "Shaking his hand",
+        "Breaking his wand"
+      ],
+      "correctAnswer": "Giving Dobby a sock"
+    },
+    {
+      "id": "hp-036",
+      "movieNumber": 2,
+      "movie": "Harry Potter and the Chamber of Secrets",
+      "difficulty": "medium",
+      "category": "Plot",
+      "question": "Who was blamed and expelled from Hogwarts for opening the Chamber of Secrets decades earlier?",
+      "options": [
+        "Hagrid",
+        "Tom Riddle",
+        "Albus Dumbledore",
+        "Argus Filch"
+      ],
+      "correctAnswer": "Hagrid"
+    },
+    {
+      "id": "hp-037",
+      "movieNumber": 3,
+      "movie": "Harry Potter and the Prisoner of Azkaban",
+      "difficulty": "easy",
+      "category": "Characters",
+      "question": "Who is the escaped prisoner from Azkaban that the film centers on?",
+      "options": [
+        "Sirius Black",
+        "Bellatrix Lestrange",
+        "Peter Pettigrew",
+        "Barty Crouch Jr."
+      ],
+      "correctAnswer": "Sirius Black"
+    },
+    {
+      "id": "hp-038",
+      "movieNumber": 3,
+      "movie": "Harry Potter and the Prisoner of Azkaban",
+      "difficulty": "easy",
+      "category": "Creatures",
+      "question": "What creatures guard Azkaban and drain happiness from people?",
+      "options": [
+        "Dementors",
+        "Inferi",
+        "Boggarts",
+        "Death Eaters"
+      ],
+      "correctAnswer": "Dementors"
+    },
+    {
+      "id": "hp-039",
+      "movieNumber": 3,
+      "movie": "Harry Potter and the Prisoner of Azkaban",
+      "difficulty": "easy",
+      "category": "Magic & Objects",
+      "question": "What magical item reveals the location of everyone inside Hogwarts?",
+      "options": [
+        "The Marauder's Map",
+        "The Mirror of Erised",
+        "The Pensieve",
+        "The Sneakoscope"
+      ],
+      "correctAnswer": "The Marauder's Map"
+    },
+    {
+      "id": "hp-040",
+      "movieNumber": 3,
+      "movie": "Harry Potter and the Prisoner of Azkaban",
+      "difficulty": "easy",
+      "category": "Characters",
+      "question": "Who teaches Harry to cast the Patronus Charm?",
+      "options": [
+        "Remus Lupin",
+        "Severus Snape",
+        "Sirius Black",
+        "Albus Dumbledore"
+      ],
+      "correctAnswer": "Remus Lupin"
+    },
+    {
+      "id": "hp-041",
+      "movieNumber": 3,
+      "movie": "Harry Potter and the Prisoner of Azkaban",
+      "difficulty": "easy",
+      "category": "Magic & Objects",
+      "question": "What form does Harry's Patronus take?",
+      "options": [
+        "A stag",
+        "A wolf",
+        "A dog",
+        "An otter"
+      ],
+      "correctAnswer": "A stag"
+    },
+    {
+      "id": "hp-042",
+      "movieNumber": 3,
+      "movie": "Harry Potter and the Prisoner of Azkaban",
+      "difficulty": "medium",
+      "category": "Characters",
+      "question": "What is Professor Lupin's secret condition?",
+      "options": [
+        "He is a werewolf",
+        "He is a vampire",
+        "He is an unregistered Animagus",
+        "He is a Death Eater"
+      ],
+      "correctAnswer": "He is a werewolf"
+    },
+    {
+      "id": "hp-043",
+      "movieNumber": 3,
+      "movie": "Harry Potter and the Prisoner of Azkaban",
+      "difficulty": "medium",
+      "category": "Plot",
+      "question": "Who is revealed to be an unregistered Animagus disguised as Ron's pet rat?",
+      "options": [
+        "Peter Pettigrew",
+        "Sirius Black",
+        "Remus Lupin",
+        "Barty Crouch Jr."
+      ],
+      "correctAnswer": "Peter Pettigrew"
+    },
+    {
+      "id": "hp-044",
+      "movieNumber": 3,
+      "movie": "Harry Potter and the Prisoner of Azkaban",
+      "difficulty": "medium",
+      "category": "Magic & Objects",
+      "question": "What magical device does Hermione secretly use to attend extra classes?",
+      "options": [
+        "A Time-Turner",
+        "A Pensieve",
+        "A Portkey",
+        "A Sneakoscope"
+      ],
+      "correctAnswer": "A Time-Turner"
+    },
+    {
+      "id": "hp-045",
+      "movieNumber": 3,
+      "movie": "Harry Potter and the Prisoner of Azkaban",
+      "difficulty": "easy",
+      "category": "Creatures",
+      "question": "What creature does Hagrid introduce in his very first Care of Magical Creatures class?",
+      "options": [
+        "A Hippogriff",
+        "A Blast-Ended Skrewt",
+        "A Niffler",
+        "A Thestral"
+      ],
+      "correctAnswer": "A Hippogriff"
+    },
+    {
+      "id": "hp-046",
+      "movieNumber": 3,
+      "movie": "Harry Potter and the Prisoner of Azkaban",
+      "difficulty": "medium",
+      "category": "Magic & Objects",
+      "question": "What does Harry eat to counteract the effects of a Dementor attack?",
+      "options": [
+        "Chocolate",
+        "A potion",
+        "A Bezoar",
+        "Butterbeer"
+      ],
+      "correctAnswer": "Chocolate"
+    },
+    {
+      "id": "hp-047",
+      "movieNumber": 3,
+      "movie": "Harry Potter and the Prisoner of Azkaban",
+      "difficulty": "easy",
+      "category": "Characters",
+      "question": "What is Sirius Black to Harry?",
+      "options": [
+        "His godfather",
+        "His uncle",
+        "His cousin",
+        "His father's old teacher"
+      ],
+      "correctAnswer": "His godfather"
+    },
+    {
+      "id": "hp-048",
+      "movieNumber": 3,
+      "movie": "Harry Potter and the Prisoner of Azkaban",
+      "difficulty": "medium",
+      "category": "Magic & Objects",
+      "question": "What is Sirius Black's Animagus form?",
+      "options": [
+        "A large black dog",
+        "A rat",
+        "A stag",
+        "A wolf"
+      ],
+      "correctAnswer": "A large black dog"
+    },
+    {
+      "id": "hp-049",
+      "movieNumber": 3,
+      "movie": "Harry Potter and the Prisoner of Azkaban",
+      "difficulty": "easy",
+      "category": "Creatures",
+      "question": "What is the name of Hagrid's Hippogriff who is sentenced to execution?",
+      "options": [
+        "Buckbeak",
+        "Fang",
+        "Fluffy",
+        "Aragog"
+      ],
+      "correctAnswer": "Buckbeak"
+    },
+    {
+      "id": "hp-050",
+      "movieNumber": 3,
+      "movie": "Harry Potter and the Prisoner of Azkaban",
+      "difficulty": "easy",
+      "category": "Characters",
+      "question": "What subject does Professor Trelawney teach?",
+      "options": [
+        "Divination",
+        "Astronomy",
+        "Ancient Runes",
+        "Arithmancy"
+      ],
+      "correctAnswer": "Divination"
+    },
+    {
+      "id": "hp-051",
+      "movieNumber": 3,
+      "movie": "Harry Potter and the Prisoner of Azkaban",
+      "difficulty": "easy",
+      "category": "Magic & Objects",
+      "question": "What triple-decker vehicle provides emergency transport for stranded witches and wizards?",
+      "options": [
+        "The Knight Bus",
+        "The Hogwarts Express",
+        "A Portkey",
+        "A flying carpet"
+      ],
+      "correctAnswer": "The Knight Bus"
+    },
+    {
+      "id": "hp-052",
+      "movieNumber": 3,
+      "movie": "Harry Potter and the Prisoner of Azkaban",
+      "difficulty": "medium",
+      "category": "Creatures",
+      "question": "What creature do Harry and Hermione save from execution using the Time-Turner?",
+      "options": [
+        "Buckbeak",
+        "Fang",
+        "Fawkes",
+        "Norbert"
+      ],
+      "correctAnswer": "Buckbeak"
+    },
+    {
+      "id": "hp-053",
+      "movieNumber": 3,
+      "movie": "Harry Potter and the Prisoner of Azkaban",
+      "difficulty": "easy",
+      "category": "Characters",
+      "question": "What is Professor Lupin forced to transform into once a month?",
+      "options": [
+        "A werewolf",
+        "A boggart",
+        "An Animagus dog",
+        "A vampire"
+      ],
+      "correctAnswer": "A werewolf"
+    },
+    {
+      "id": "hp-054",
+      "movieNumber": 3,
+      "movie": "Harry Potter and the Prisoner of Azkaban",
+      "difficulty": "medium",
+      "category": "Creatures",
+      "question": "What shape does the Boggart take when it appears in front of Neville Longbottom?",
+      "options": [
+        "Professor Snape (dressed in his grandmother's clothes)",
+        "Professor McGonagall",
+        "A giant spider",
+        "Voldemort"
+      ],
+      "correctAnswer": "Professor Snape (dressed in his grandmother's clothes)"
+    },
+    {
+      "id": "hp-055",
+      "movieNumber": 4,
+      "movie": "Harry Potter and the Goblet of Fire",
+      "difficulty": "easy",
+      "category": "Plot",
+      "question": "What magical competition is held at Hogwarts this year?",
+      "options": [
+        "The Triwizard Tournament",
+        "The Quidditch World Cup",
+        "The Duelling Club Championship",
+        "The House Cup Trials"
+      ],
+      "correctAnswer": "The Triwizard Tournament"
+    },
+    {
+      "id": "hp-056",
+      "movieNumber": 4,
+      "movie": "Harry Potter and the Goblet of Fire",
+      "difficulty": "easy",
+      "category": "Magic & Objects",
+      "question": "What magical object selects the tournament champions?",
+      "options": [
+        "The Goblet of Fire",
+        "The Sorting Hat",
+        "The Mirror of Erised",
+        "The Pensieve"
+      ],
+      "correctAnswer": "The Goblet of Fire"
+    },
+    {
+      "id": "hp-057",
+      "movieNumber": 4,
+      "movie": "Harry Potter and the Goblet of Fire",
+      "difficulty": "medium",
+      "category": "Places",
+      "question": "Which two schools compete against Hogwarts in the tournament?",
+      "options": [
+        "Beauxbatons and Durmstrang",
+        "Ilvermorny and Durmstrang",
+        "Beauxbatons and Ilvermorny",
+        "Mahoutokoro and Durmstrang"
+      ],
+      "correctAnswer": "Beauxbatons and Durmstrang"
+    },
+    {
+      "id": "hp-058",
+      "movieNumber": 4,
+      "movie": "Harry Potter and the Goblet of Fire",
+      "difficulty": "easy",
+      "category": "Plot",
+      "question": "Who is the fourth, unexpected champion entered into the tournament?",
+      "options": [
+        "Harry Potter",
+        "Neville Longbottom",
+        "Ron Weasley",
+        "Draco Malfoy"
+      ],
+      "correctAnswer": "Harry Potter"
+    },
+    {
+      "id": "hp-059",
+      "movieNumber": 4,
+      "movie": "Harry Potter and the Goblet of Fire",
+      "difficulty": "easy",
+      "category": "Creatures",
+      "question": "What must the champions get past in the tournament's first task?",
+      "options": [
+        "A dragon",
+        "A Sphinx",
+        "A Basilisk",
+        "Merpeople"
+      ],
+      "correctAnswer": "A dragon"
+    },
+    {
+      "id": "hp-060",
+      "movieNumber": 4,
+      "movie": "Harry Potter and the Goblet of Fire",
+      "difficulty": "medium",
+      "category": "Magic & Objects",
+      "question": "What does Harry use to breathe underwater during the second task?",
+      "options": [
+        "Gillyweed",
+        "A Bubble-Head Charm",
+        "A Time-Turner",
+        "Felix Felicis"
+      ],
+      "correctAnswer": "Gillyweed"
+    },
+    {
+      "id": "hp-061",
+      "movieNumber": 4,
+      "movie": "Harry Potter and the Goblet of Fire",
+      "difficulty": "medium",
+      "category": "Plot",
+      "question": "Who is revealed to have been impersonating \"Mad-Eye\" Moody all year?",
+      "options": [
+        "Barty Crouch Jr.",
+        "Peter Pettigrew",
+        "Lucius Malfoy",
+        "Igor Karkaroff"
+      ],
+      "correctAnswer": "Barty Crouch Jr."
+    },
+    {
+      "id": "hp-062",
+      "movieNumber": 4,
+      "movie": "Harry Potter and the Goblet of Fire",
+      "difficulty": "easy",
+      "category": "Plot",
+      "question": "What formal dance takes place at Hogwarts during the film?",
+      "options": [
+        "The Yule Ball",
+        "The Sorting Ceremony",
+        "The House Cup Feast",
+        "Graduation"
+      ],
+      "correctAnswer": "The Yule Ball"
+    },
+    {
+      "id": "hp-063",
+      "movieNumber": 4,
+      "movie": "Harry Potter and the Goblet of Fire",
+      "difficulty": "medium",
+      "category": "Plot",
+      "question": "What happens to Voldemort by the end of the film?",
+      "options": [
+        "He returns to a full physical body",
+        "He is destroyed permanently",
+        "He possesses Harry",
+        "He is imprisoned in Azkaban"
+      ],
+      "correctAnswer": "He returns to a full physical body"
+    },
+    {
+      "id": "hp-064",
+      "movieNumber": 4,
+      "movie": "Harry Potter and the Goblet of Fire",
+      "difficulty": "hard",
+      "category": "Places",
+      "question": "In which graveyard is Voldemort restored to his body?",
+      "options": [
+        "Little Hangleton",
+        "Godric's Hollow",
+        "Hogsmeade",
+        "Ottery St Catchpole"
+      ],
+      "correctAnswer": "Little Hangleton"
+    },
+    {
+      "id": "hp-065",
+      "movieNumber": 4,
+      "movie": "Harry Potter and the Goblet of Fire",
+      "difficulty": "easy",
+      "category": "Characters",
+      "question": "Which Hogwarts student is the other Triwizard champion, alongside Harry?",
+      "options": [
+        "Cedric Diggory",
+        "Viktor Krum",
+        "Fleur Delacour",
+        "Seamus Finnigan"
+      ],
+      "correctAnswer": "Cedric Diggory"
+    },
+    {
+      "id": "hp-066",
+      "movieNumber": 4,
+      "movie": "Harry Potter and the Goblet of Fire",
+      "difficulty": "medium",
+      "category": "Plot",
+      "question": "What happens to Cedric Diggory at the end of the tournament?",
+      "options": [
+        "He is killed by Peter Pettigrew",
+        "He wins the tournament",
+        "He is petrified",
+        "He is expelled"
+      ],
+      "correctAnswer": "He is killed by Peter Pettigrew"
+    },
+    {
+      "id": "hp-067",
+      "movieNumber": 4,
+      "movie": "Harry Potter and the Goblet of Fire",
+      "difficulty": "medium",
+      "category": "Magic & Objects",
+      "question": "What object is turned into a Portkey during the final task?",
+      "options": [
+        "The Triwizard Cup",
+        "The Golden Egg",
+        "The Goblet of Fire",
+        "A broomstick"
+      ],
+      "correctAnswer": "The Triwizard Cup"
+    },
+    {
+      "id": "hp-068",
+      "movieNumber": 4,
+      "movie": "Harry Potter and the Goblet of Fire",
+      "difficulty": "easy",
+      "category": "Characters",
+      "question": "Who is the Triwizard champion representing Beauxbatons?",
+      "options": [
+        "Fleur Delacour",
+        "Viktor Krum",
+        "Cho Chang",
+        "Angelina Johnson"
+      ],
+      "correctAnswer": "Fleur Delacour"
+    },
+    {
+      "id": "hp-069",
+      "movieNumber": 4,
+      "movie": "Harry Potter and the Goblet of Fire",
+      "difficulty": "easy",
+      "category": "Characters",
+      "question": "Who is the Triwizard champion representing Durmstrang?",
+      "options": [
+        "Viktor Krum",
+        "Cedric Diggory",
+        "Fleur Delacour",
+        "Igor Karkaroff"
+      ],
+      "correctAnswer": "Viktor Krum"
+    },
+    {
+      "id": "hp-070",
+      "movieNumber": 4,
+      "movie": "Harry Potter and the Goblet of Fire",
+      "difficulty": "medium",
+      "category": "Plot",
+      "question": "What clue is hidden inside the Golden Egg from the first task?",
+      "options": [
+        "A song revealing the second task",
+        "A map of the maze",
+        "A photo of Cedric",
+        "A list of ingredients"
+      ],
+      "correctAnswer": "A song revealing the second task"
+    },
+    {
+      "id": "hp-071",
+      "movieNumber": 4,
+      "movie": "Harry Potter and the Goblet of Fire",
+      "difficulty": "medium",
+      "category": "Characters",
+      "question": "What does journalist Rita Skeeter transform into to spy on people?",
+      "options": [
+        "A beetle (her Animagus form)",
+        "A fly",
+        "A moth",
+        "A spider"
+      ],
+      "correctAnswer": "A beetle (her Animagus form)"
+    },
+    {
+      "id": "hp-072",
+      "movieNumber": 4,
+      "movie": "Harry Potter and the Goblet of Fire",
+      "difficulty": "easy",
+      "category": "Plot",
+      "question": "What is the final task of the Triwizard Tournament?",
+      "options": [
+        "Navigating a giant hedge maze",
+        "Solving a riddle",
+        "Dueling a dragon",
+        "Retrieving a key while flying"
+      ],
+      "correctAnswer": "Navigating a giant hedge maze"
+    },
+    {
+      "id": "hp-073",
+      "movieNumber": 5,
+      "movie": "Harry Potter and the Order of the Phoenix",
+      "difficulty": "easy",
+      "category": "Characters",
+      "question": "Who is appointed as the new Defense Against the Dark Arts teacher by the Ministry?",
+      "options": [
+        "Dolores Umbridge",
+        "Alastor Moody",
+        "Remus Lupin",
+        "Horace Slughorn"
+      ],
+      "correctAnswer": "Dolores Umbridge"
+    },
+    {
+      "id": "hp-074",
+      "movieNumber": 5,
+      "movie": "Harry Potter and the Order of the Phoenix",
+      "difficulty": "easy",
+      "category": "Plot",
+      "question": "What secret student group does Harry form to teach real Defense Against the Dark Arts?",
+      "options": [
+        "Dumbledore's Army",
+        "The Order of the Phoenix",
+        "The Slug Club",
+        "The Inquisitorial Squad"
+      ],
+      "correctAnswer": "Dumbledore's Army"
+    },
+    {
+      "id": "hp-075",
+      "movieNumber": 5,
+      "movie": "Harry Potter and the Order of the Phoenix",
+      "difficulty": "medium",
+      "category": "Places",
+      "question": "Where does Dumbledore's Army secretly meet to practice?",
+      "options": [
+        "The Room of Requirement",
+        "The Chamber of Secrets",
+        "The Shrieking Shack",
+        "The Great Hall"
+      ],
+      "correctAnswer": "The Room of Requirement"
+    },
+    {
+      "id": "hp-076",
+      "movieNumber": 5,
+      "movie": "Harry Potter and the Order of the Phoenix",
+      "difficulty": "easy",
+      "category": "Characters",
+      "question": "What position does Cornelius Fudge hold in the wizarding government?",
+      "options": [
+        "Minister for Magic",
+        "Head of the Auror Office",
+        "Headmaster of Hogwarts",
+        "Head of the Wizengamot"
+      ],
+      "correctAnswer": "Minister for Magic"
+    },
+    {
+      "id": "hp-077",
+      "movieNumber": 5,
+      "movie": "Harry Potter and the Order of the Phoenix",
+      "difficulty": "easy",
+      "category": "Plot",
+      "question": "What secret society does Dumbledore lead against Voldemort?",
+      "options": [
+        "The Order of the Phoenix",
+        "Dumbledore's Army",
+        "The Wizengamot",
+        "The Ministry of Magic"
+      ],
+      "correctAnswer": "The Order of the Phoenix"
+    },
+    {
+      "id": "hp-078",
+      "movieNumber": 5,
+      "movie": "Harry Potter and the Order of the Phoenix",
+      "difficulty": "medium",
+      "category": "Places",
+      "question": "At which address does Sirius Black hide for much of the film?",
+      "options": [
+        "12 Grimmauld Place",
+        "4 Privet Drive",
+        "The Burrow",
+        "Spinner's End"
+      ],
+      "correctAnswer": "12 Grimmauld Place"
+    },
+    {
+      "id": "hp-079",
+      "movieNumber": 5,
+      "movie": "Harry Potter and the Order of the Phoenix",
+      "difficulty": "medium",
+      "category": "Plot",
+      "question": "Who dies during the Battle of the Department of Mysteries?",
+      "options": [
+        "Sirius Black",
+        "Remus Lupin",
+        "Mad-Eye Moody",
+        "Kingsley Shacklebolt"
+      ],
+      "correctAnswer": "Sirius Black"
+    },
+    {
+      "id": "hp-080",
+      "movieNumber": 5,
+      "movie": "Harry Potter and the Order of the Phoenix",
+      "difficulty": "medium",
+      "category": "Plot",
+      "question": "Who kills Sirius Black?",
+      "options": [
+        "Bellatrix Lestrange",
+        "Lucius Malfoy",
+        "Voldemort",
+        "Dolores Umbridge"
+      ],
+      "correctAnswer": "Bellatrix Lestrange"
+    },
+    {
+      "id": "hp-081",
+      "movieNumber": 5,
+      "movie": "Harry Potter and the Order of the Phoenix",
+      "difficulty": "medium",
+      "category": "Plot",
+      "question": "What is revealed to link the fates of Harry and Voldemort?",
+      "options": [
+        "A prophecy",
+        "A shared wand core alone",
+        "A blood relation",
+        "A telepathic bond by choice"
+      ],
+      "correctAnswer": "A prophecy"
+    },
+    {
+      "id": "hp-082",
+      "movieNumber": 5,
+      "movie": "Harry Potter and the Order of the Phoenix",
+      "difficulty": "medium",
+      "category": "Characters",
+      "question": "Who becomes the new Headmistress of Hogwarts after Dumbledore flees the Ministry?",
+      "options": [
+        "Dolores Umbridge",
+        "Minerva McGonagall",
+        "Cornelius Fudge",
+        "Argus Filch"
+      ],
+      "correctAnswer": "Dolores Umbridge"
+    },
+    {
+      "id": "hp-083",
+      "movieNumber": 5,
+      "movie": "Harry Potter and the Order of the Phoenix",
+      "difficulty": "medium",
+      "category": "Plot",
+      "question": "How do Fred and George Weasley make their dramatic exit from Hogwarts?",
+      "options": [
+        "They set off fireworks and fly away on their brooms",
+        "They get expelled by Umbridge",
+        "They graduate early",
+        "They transfer to Durmstrang"
+      ],
+      "correctAnswer": "They set off fireworks and fly away on their brooms"
+    },
+    {
+      "id": "hp-084",
+      "movieNumber": 5,
+      "movie": "Harry Potter and the Order of the Phoenix",
+      "difficulty": "medium",
+      "category": "Magic & Objects",
+      "question": "What magical objects containing prophecies are stored in the Department of Mysteries?",
+      "options": [
+        "Glass orbs",
+        "Crystal balls",
+        "Pensieves",
+        "Time-Turners"
+      ],
+      "correctAnswer": "Glass orbs"
+    },
+    {
+      "id": "hp-085",
+      "movieNumber": 5,
+      "movie": "Harry Potter and the Order of the Phoenix",
+      "difficulty": "medium",
+      "category": "Characters",
+      "question": "Who teaches Harry Occlumency to help him block Voldemort from his mind?",
+      "options": [
+        "Severus Snape",
+        "Remus Lupin",
+        "Sirius Black",
+        "Albus Dumbledore"
+      ],
+      "correctAnswer": "Severus Snape"
+    },
+    {
+      "id": "hp-086",
+      "movieNumber": 5,
+      "movie": "Harry Potter and the Order of the Phoenix",
+      "difficulty": "easy",
+      "category": "Characters",
+      "question": "What house are Fred and George Weasley in?",
+      "options": [
+        "Gryffindor",
+        "Hufflepuff",
+        "Ravenclaw",
+        "Slytherin"
+      ],
+      "correctAnswer": "Gryffindor"
+    },
+    {
+      "id": "hp-087",
+      "movieNumber": 5,
+      "movie": "Harry Potter and the Order of the Phoenix",
+      "difficulty": "medium",
+      "category": "Creatures",
+      "question": "What creature-drawn carriages, visible only to those who have witnessed death, transport students to Hogwarts?",
+      "options": [
+        "Thestrals",
+        "Hippogriffs",
+        "Nifflers",
+        "Blast-Ended Skrewts"
+      ],
+      "correctAnswer": "Thestrals"
+    },
+    {
+      "id": "hp-088",
+      "movieNumber": 5,
+      "movie": "Harry Potter and the Order of the Phoenix",
+      "difficulty": "medium",
+      "category": "Characters",
+      "question": "Who leads the student group nicknamed the \"Inquisitorial Squad\" under Umbridge?",
+      "options": [
+        "Draco Malfoy",
+        "Vincent Crabbe",
+        "Gregory Goyle",
+        "Cho Chang"
+      ],
+      "correctAnswer": "Draco Malfoy"
+    },
+    {
+      "id": "hp-089",
+      "movieNumber": 5,
+      "movie": "Harry Potter and the Order of the Phoenix",
+      "difficulty": "medium",
+      "category": "Plot",
+      "question": "What lures Harry into a trap at the Ministry of Magic near the end of the film?",
+      "options": [
+        "A vision of Sirius being tortured",
+        "A vision of Voldemort's death",
+        "A vision of Cedric's death",
+        "A vision of the Chamber of Secrets"
+      ],
+      "correctAnswer": "A vision of Sirius being tortured"
+    },
+    {
+      "id": "hp-090",
+      "movieNumber": 5,
+      "movie": "Harry Potter and the Order of the Phoenix",
+      "difficulty": "medium",
+      "category": "Plot",
+      "question": "Who duels Voldemort at the Ministry of Magic near the end of the film?",
+      "options": [
+        "Albus Dumbledore",
+        "Harry Potter",
+        "Sirius Black",
+        "Kingsley Shacklebolt"
+      ],
+      "correctAnswer": "Albus Dumbledore"
+    },
+    {
+      "id": "hp-091",
+      "movieNumber": 6,
+      "movie": "Harry Potter and the Half-Blood Prince",
+      "difficulty": "medium",
+      "category": "Magic & Objects",
+      "question": "Whose old, annotated Potions textbook does Harry use, labeled \"Property of the Half-Blood Prince\"?",
+      "options": [
+        "Severus Snape's",
+        "Tom Riddle's",
+        "Horace Slughorn's",
+        "Sirius Black's"
+      ],
+      "correctAnswer": "Severus Snape's"
+    },
+    {
+      "id": "hp-092",
+      "movieNumber": 6,
+      "movie": "Harry Potter and the Half-Blood Prince",
+      "difficulty": "easy",
+      "category": "Magic & Objects",
+      "question": "What term describes an object in which a dark wizard hides a piece of their soul?",
+      "options": [
+        "A Horcrux",
+        "A Portkey",
+        "A Patronus",
+        "An Animagus"
+      ],
+      "correctAnswer": "A Horcrux"
+    },
+    {
+      "id": "hp-093",
+      "movieNumber": 6,
+      "movie": "Harry Potter and the Half-Blood Prince",
+      "difficulty": "medium",
+      "category": "Characters",
+      "question": "Who takes over as the new Potions professor at Hogwarts this year?",
+      "options": [
+        "Horace Slughorn",
+        "Severus Snape",
+        "Gilderoy Lockhart",
+        "Remus Lupin"
+      ],
+      "correctAnswer": "Horace Slughorn"
+    },
+    {
+      "id": "hp-094",
+      "movieNumber": 6,
+      "movie": "Harry Potter and the Half-Blood Prince",
+      "difficulty": "easy",
+      "category": "Plot",
+      "question": "Who kills Albus Dumbledore atop the Astronomy Tower?",
+      "options": [
+        "Severus Snape",
+        "Draco Malfoy",
+        "Bellatrix Lestrange",
+        "Fenrir Greyback"
+      ],
+      "correctAnswer": "Severus Snape"
+    },
+    {
+      "id": "hp-095",
+      "movieNumber": 6,
+      "movie": "Harry Potter and the Half-Blood Prince",
+      "difficulty": "medium",
+      "category": "Plot",
+      "question": "What task does Voldemort assign to Draco Malfoy this year?",
+      "options": [
+        "To kill Dumbledore",
+        "To steal a Horcrux",
+        "To spy on Harry",
+        "To poison Slughorn"
+      ],
+      "correctAnswer": "To kill Dumbledore"
+    },
+    {
+      "id": "hp-096",
+      "movieNumber": 6,
+      "movie": "Harry Potter and the Half-Blood Prince",
+      "difficulty": "medium",
+      "category": "Magic & Objects",
+      "question": "What magical cabinet does Draco use to smuggle Death Eaters into Hogwarts?",
+      "options": [
+        "The Vanishing Cabinet",
+        "The Room of Requirement",
+        "A Portkey trunk",
+        "The Floo Network"
+      ],
+      "correctAnswer": "The Vanishing Cabinet"
+    },
+    {
+      "id": "hp-097",
+      "movieNumber": 6,
+      "movie": "Harry Potter and the Half-Blood Prince",
+      "difficulty": "hard",
+      "category": "Creatures",
+      "question": "What reanimated corpses guard the cave where a Horcrux locket is hidden?",
+      "options": [
+        "Inferi",
+        "Dementors",
+        "Acromantulas",
+        "Basilisks"
+      ],
+      "correctAnswer": "Inferi"
+    },
+    {
+      "id": "hp-098",
+      "movieNumber": 6,
+      "movie": "Harry Potter and the Half-Blood Prince",
+      "difficulty": "medium",
+      "category": "Magic & Objects",
+      "question": "What magical device does Dumbledore use to show Harry memories of Voldemort's past?",
+      "options": [
+        "The Pensieve",
+        "The Marauder's Map",
+        "The Mirror of Erised",
+        "A Time-Turner"
+      ],
+      "correctAnswer": "The Pensieve"
+    },
+    {
+      "id": "hp-099",
+      "movieNumber": 6,
+      "movie": "Harry Potter and the Half-Blood Prince",
+      "difficulty": "easy",
+      "category": "Creatures",
+      "question": "What is the name of Voldemort's snake?",
+      "options": [
+        "Nagini",
+        "Norbert",
+        "Aragog",
+        "Basilisk"
+      ],
+      "correctAnswer": "Nagini"
+    },
+    {
+      "id": "hp-100",
+      "movieNumber": 6,
+      "movie": "Harry Potter and the Half-Blood Prince",
+      "difficulty": "medium",
+      "category": "Characters",
+      "question": "Who is revealed to be the \"Half-Blood Prince\"?",
+      "options": [
+        "Severus Snape",
+        "Tom Riddle",
+        "Horace Slughorn",
+        "Sirius Black"
+      ],
+      "correctAnswer": "Severus Snape"
+    },
+    {
+      "id": "hp-101",
+      "movieNumber": 6,
+      "movie": "Harry Potter and the Half-Blood Prince",
+      "difficulty": "medium",
+      "category": "Characters",
+      "question": "Who does Ron Weasley briefly date in this film, causing tension with Hermione?",
+      "options": [
+        "Lavender Brown",
+        "Romilda Vane",
+        "Fleur Delacour",
+        "Cho Chang"
+      ],
+      "correctAnswer": "Lavender Brown"
+    },
+    {
+      "id": "hp-102",
+      "movieNumber": 6,
+      "movie": "Harry Potter and the Half-Blood Prince",
+      "difficulty": "easy",
+      "category": "Characters",
+      "question": "Who does Harry begin a romantic relationship with in this film?",
+      "options": [
+        "Ginny Weasley",
+        "Cho Chang",
+        "Hermione Granger",
+        "Luna Lovegood"
+      ],
+      "correctAnswer": "Ginny Weasley"
+    },
+    {
+      "id": "hp-103",
+      "movieNumber": 6,
+      "movie": "Harry Potter and the Half-Blood Prince",
+      "difficulty": "medium",
+      "category": "Magic & Objects",
+      "question": "What is the name of the \"liquid luck\" potion Slughorn gives away as a class prize?",
+      "options": [
+        "Felix Felicis",
+        "Amortentia",
+        "Veritaserum",
+        "Polyjuice Potion"
+      ],
+      "correctAnswer": "Felix Felicis"
+    },
+    {
+      "id": "hp-104",
+      "movieNumber": 6,
+      "movie": "Harry Potter and the Half-Blood Prince",
+      "difficulty": "hard",
+      "category": "Plot",
+      "question": "What does Slughorn's original, altered memory conceal from Dumbledore?",
+      "options": [
+        "What he told Tom Riddle about Horcruxes",
+        "The location of the Chamber of Secrets",
+        "The history of the Elder Wand",
+        "His friendship with Grindelwald"
+      ],
+      "correctAnswer": "What he told Tom Riddle about Horcruxes"
+    },
+    {
+      "id": "hp-105",
+      "movieNumber": 6,
+      "movie": "Harry Potter and the Half-Blood Prince",
+      "difficulty": "medium",
+      "category": "Plot",
+      "question": "Who does Harry trick into believing he's been given Felix Felicis before a big Quidditch match?",
+      "options": [
+        "Ron Weasley",
+        "Cormac McLaggen",
+        "Neville Longbottom",
+        "Seamus Finnigan"
+      ],
+      "correctAnswer": "Ron Weasley"
+    },
+    {
+      "id": "hp-106",
+      "movieNumber": 6,
+      "movie": "Harry Potter and the Half-Blood Prince",
+      "difficulty": "medium",
+      "category": "Plot",
+      "question": "Which student unknowingly drinks poisoned mead that was intended for Dumbledore?",
+      "options": [
+        "Ron Weasley",
+        "Harry Potter",
+        "Draco Malfoy",
+        "Cormac McLaggen"
+      ],
+      "correctAnswer": "Ron Weasley"
+    },
+    {
+      "id": "hp-107",
+      "movieNumber": 6,
+      "movie": "Harry Potter and the Half-Blood Prince",
+      "difficulty": "hard",
+      "category": "Magic & Objects",
+      "question": "What antidote does Harry give Ron after the poisoning?",
+      "options": [
+        "A Bezoar",
+        "Felix Felicis",
+        "Essence of Dittany",
+        "Skele-Gro"
+      ],
+      "correctAnswer": "A Bezoar"
+    },
+    {
+      "id": "hp-108",
+      "movieNumber": 6,
+      "movie": "Harry Potter and the Half-Blood Prince",
+      "difficulty": "medium",
+      "category": "Characters",
+      "question": "Who attacks and bites Bill Weasley, leaving him with wolf-like scars?",
+      "options": [
+        "Fenrir Greyback",
+        "Bellatrix Lestrange",
+        "Nagini",
+        "Voldemort"
+      ],
+      "correctAnswer": "Fenrir Greyback"
+    },
+    {
+      "id": "hp-109",
+      "movieNumber": 7,
+      "movie": "Harry Potter and the Deathly Hallows: Part 1",
+      "difficulty": "easy",
+      "category": "Plot",
+      "question": "Whose wedding takes place at the start of the film?",
+      "options": [
+        "Bill Weasley and Fleur Delacour's",
+        "Ron and Hermione's",
+        "Harry and Ginny's",
+        "Percy Weasley's"
+      ],
+      "correctAnswer": "Bill Weasley and Fleur Delacour's"
+    },
+    {
+      "id": "hp-110",
+      "movieNumber": 7,
+      "movie": "Harry Potter and the Deathly Hallows: Part 1",
+      "difficulty": "easy",
+      "category": "Plot",
+      "question": "What are Harry, Ron, and Hermione searching for throughout the film?",
+      "options": [
+        "Voldemort's Horcruxes",
+        "The Deathly Hallows",
+        "The Elder Wand",
+        "The Philosopher's Stone"
+      ],
+      "correctAnswer": "Voldemort's Horcruxes"
+    },
+    {
+      "id": "hp-111",
+      "movieNumber": 7,
+      "movie": "Harry Potter and the Deathly Hallows: Part 1",
+      "difficulty": "medium",
+      "category": "Magic & Objects",
+      "question": "What three magical objects together make up the \"Deathly Hallows\"?",
+      "options": [
+        "The Elder Wand, the Resurrection Stone, and the Cloak of Invisibility",
+        "A wand, a sword, and a cup",
+        "A stone, a cloak, and a locket",
+        "A cup, a wand, and a ring"
+      ],
+      "correctAnswer": "The Elder Wand, the Resurrection Stone, and the Cloak of Invisibility"
+    },
+    {
+      "id": "hp-112",
+      "movieNumber": 7,
+      "movie": "Harry Potter and the Deathly Hallows: Part 1",
+      "difficulty": "hard",
+      "category": "Plot",
+      "question": "What underground radio programme provides real news during Voldemort's rise to power?",
+      "options": [
+        "Potterwatch",
+        "The Daily Prophet Hour",
+        "WWN Wizarding News",
+        "The Order Report"
+      ],
+      "correctAnswer": "Potterwatch"
+    },
+    {
+      "id": "hp-113",
+      "movieNumber": 7,
+      "movie": "Harry Potter and the Deathly Hallows: Part 1",
+      "difficulty": "medium",
+      "category": "Plot",
+      "question": "Who capture the trio while they are on the run, alerted because Harry's name has been cursed?",
+      "options": [
+        "Snatchers",
+        "Death Eaters directly",
+        "Dementors",
+        "Aurors"
+      ],
+      "correctAnswer": "Snatchers"
+    },
+    {
+      "id": "hp-114",
+      "movieNumber": 7,
+      "movie": "Harry Potter and the Deathly Hallows: Part 1",
+      "difficulty": "medium",
+      "category": "Plot",
+      "question": "Who kills Dobby the house-elf?",
+      "options": [
+        "Bellatrix Lestrange",
+        "Draco Malfoy",
+        "Fenrir Greyback",
+        "Lucius Malfoy"
+      ],
+      "correctAnswer": "Bellatrix Lestrange"
+    },
+    {
+      "id": "hp-115",
+      "movieNumber": 7,
+      "movie": "Harry Potter and the Deathly Hallows: Part 1",
+      "difficulty": "medium",
+      "category": "Magic & Objects",
+      "question": "Which Horcrux does Ron destroy using the Sword of Gryffindor?",
+      "options": [
+        "Slytherin's locket",
+        "Hufflepuff's cup",
+        "Ravenclaw's diadem",
+        "Riddle's diary"
+      ],
+      "correctAnswer": "Slytherin's locket"
+    },
+    {
+      "id": "hp-116",
+      "movieNumber": 7,
+      "movie": "Harry Potter and the Deathly Hallows: Part 1",
+      "difficulty": "medium",
+      "category": "Plot",
+      "question": "What causes Ron to temporarily abandon Harry and Hermione?",
+      "options": [
+        "The locket's dark influence and his jealousy",
+        "A fight with Hermione over homework",
+        "An order from his mother",
+        "A Ministry summons"
+      ],
+      "correctAnswer": "The locket's dark influence and his jealousy"
+    },
+    {
+      "id": "hp-117",
+      "movieNumber": 7,
+      "movie": "Harry Potter and the Deathly Hallows: Part 1",
+      "difficulty": "medium",
+      "category": "Plot",
+      "question": "What does Voldemort do to Dumbledore's grave in this film?",
+      "options": [
+        "Steals the Elder Wand from it",
+        "Destroys it",
+        "Leaves a Horcrux inside it",
+        "Nothing, it is never found"
+      ],
+      "correctAnswer": "Steals the Elder Wand from it"
+    },
+    {
+      "id": "hp-118",
+      "movieNumber": 7,
+      "movie": "Harry Potter and the Deathly Hallows: Part 1",
+      "difficulty": "medium",
+      "category": "Places",
+      "question": "Which village do Harry and Hermione visit to learn about Dumbledore's past?",
+      "options": [
+        "Godric's Hollow",
+        "Little Hangleton",
+        "Hogsmeade",
+        "Spinner's End"
+      ],
+      "correctAnswer": "Godric's Hollow"
+    },
+    {
+      "id": "hp-119",
+      "movieNumber": 7,
+      "movie": "Harry Potter and the Deathly Hallows: Part 1",
+      "difficulty": "hard",
+      "category": "Creatures",
+      "question": "What attacks Harry and Hermione in Godric's Hollow, disguised as an old woman?",
+      "options": [
+        "Nagini, disguised as Bathilda Bagshot",
+        "Bellatrix Lestrange",
+        "Fenrir Greyback",
+        "Voldemort himself"
+      ],
+      "correctAnswer": "Nagini, disguised as Bathilda Bagshot"
+    },
+    {
+      "id": "hp-120",
+      "movieNumber": 7,
+      "movie": "Harry Potter and the Deathly Hallows: Part 1",
+      "difficulty": "easy",
+      "category": "Characters",
+      "question": "Which house-elf sacrifices himself to save Harry and his friends from Malfoy Manor?",
+      "options": [
+        "Dobby",
+        "Kreacher",
+        "Winky",
+        "Griphook"
+      ],
+      "correctAnswer": "Dobby"
+    },
+    {
+      "id": "hp-121",
+      "movieNumber": 7,
+      "movie": "Harry Potter and the Deathly Hallows: Part 1",
+      "difficulty": "medium",
+      "category": "Magic & Objects",
+      "question": "What does Hermione keep all of their camping supplies in during their journey?",
+      "options": [
+        "A beaded handbag with an Undetectable Extension Charm",
+        "A trunk",
+        "A backpack",
+        "A cauldron"
+      ],
+      "correctAnswer": "A beaded handbag with an Undetectable Extension Charm"
+    },
+    {
+      "id": "hp-122",
+      "movieNumber": 7,
+      "movie": "Harry Potter and the Deathly Hallows: Part 1",
+      "difficulty": "hard",
+      "category": "Characters",
+      "question": "Whose Patronus, a silver doe, leads Harry to the hidden Sword of Gryffindor?",
+      "options": [
+        "Severus Snape's",
+        "Dumbledore's, via his portrait",
+        "Minerva McGonagall's",
+        "Remus Lupin's"
+      ],
+      "correctAnswer": "Severus Snape's"
+    },
+    {
+      "id": "hp-123",
+      "movieNumber": 7,
+      "movie": "Harry Potter and the Deathly Hallows: Part 1",
+      "difficulty": "easy",
+      "category": "Characters",
+      "question": "Who is Xenophilius Lovegood's daughter, who travels with the trio for part of the film?",
+      "options": [
+        "Luna Lovegood",
+        "Ginny Weasley",
+        "Cho Chang",
+        "Padma Patil"
+      ],
+      "correctAnswer": "Luna Lovegood"
+    },
+    {
+      "id": "hp-124",
+      "movieNumber": 7,
+      "movie": "Harry Potter and the Deathly Hallows: Part 1",
+      "difficulty": "medium",
+      "category": "Plot",
+      "question": "What story does Xenophilius Lovegood tell Harry, involving three brothers?",
+      "options": [
+        "The tale of the Deathly Hallows",
+        "The history of Hogwarts",
+        "The story of Voldemort's birth",
+        "The legend of the Sorting Hat"
+      ],
+      "correctAnswer": "The tale of the Deathly Hallows"
+    },
+    {
+      "id": "hp-125",
+      "movieNumber": 7,
+      "movie": "Harry Potter and the Deathly Hallows: Part 1",
+      "difficulty": "medium",
+      "category": "Plot",
+      "question": "Who is imprisoned and tortured at Malfoy Manor when the trio is captured?",
+      "options": [
+        "Ollivander and Luna Lovegood, among others",
+        "Neville Longbottom",
+        "Kingsley Shacklebolt",
+        "Aberforth Dumbledore"
+      ],
+      "correctAnswer": "Ollivander and Luna Lovegood, among others"
+    },
+    {
+      "id": "hp-126",
+      "movieNumber": 7,
+      "movie": "Harry Potter and the Deathly Hallows: Part 1",
+      "difficulty": "medium",
+      "category": "Characters",
+      "question": "Whose house-elf, once cruel to Harry, ultimately helps the trio infiltrate the Ministry?",
+      "options": [
+        "Kreacher",
+        "Dobby",
+        "Winky",
+        "Griphook"
+      ],
+      "correctAnswer": "Kreacher"
+    },
+    {
+      "id": "hp-127",
+      "movieNumber": 8,
+      "movie": "Harry Potter and the Deathly Hallows: Part 2",
+      "difficulty": "easy",
+      "category": "Places",
+      "question": "Where does the final battle of the series take place?",
+      "options": [
+        "Hogwarts",
+        "The Ministry of Magic",
+        "Godric's Hollow",
+        "Little Hangleton"
+      ],
+      "correctAnswer": "Hogwarts"
+    },
+    {
+      "id": "hp-128",
+      "movieNumber": 8,
+      "movie": "Harry Potter and the Deathly Hallows: Part 2",
+      "difficulty": "medium",
+      "category": "Plot",
+      "question": "What does Harry discover he himself is, in relation to Voldemort's Horcruxes?",
+      "options": [
+        "A Horcrux",
+        "The only true master of the Elder Wand",
+        "A Squib",
+        "Immune to death permanently"
+      ],
+      "correctAnswer": "A Horcrux"
+    },
+    {
+      "id": "hp-129",
+      "movieNumber": 8,
+      "movie": "Harry Potter and the Deathly Hallows: Part 2",
+      "difficulty": "easy",
+      "category": "Plot",
+      "question": "Who kills Bellatrix Lestrange?",
+      "options": [
+        "Molly Weasley",
+        "Ginny Weasley",
+        "Minerva McGonagall",
+        "Neville Longbottom"
+      ],
+      "correctAnswer": "Molly Weasley"
+    },
+    {
+      "id": "hp-130",
+      "movieNumber": 8,
+      "movie": "Harry Potter and the Deathly Hallows: Part 2",
+      "difficulty": "medium",
+      "category": "Plot",
+      "question": "What kills Severus Snape?",
+      "options": [
+        "Voldemort's snake, Nagini",
+        "Neville Longbottom",
+        "Bellatrix Lestrange",
+        "A Killing Curse from Harry"
+      ],
+      "correctAnswer": "Voldemort's snake, Nagini"
+    },
+    {
+      "id": "hp-131",
+      "movieNumber": 8,
+      "movie": "Harry Potter and the Deathly Hallows: Part 2",
+      "difficulty": "medium",
+      "category": "Plot",
+      "question": "Whose memories does Harry view in the Pensieve that reveal Snape's true loyalty?",
+      "options": [
+        "Severus Snape's",
+        "Dumbledore's",
+        "Voldemort's",
+        "Lily Potter's"
+      ],
+      "correctAnswer": "Severus Snape's"
+    },
+    {
+      "id": "hp-132",
+      "movieNumber": 8,
+      "movie": "Harry Potter and the Deathly Hallows: Part 2",
+      "difficulty": "medium",
+      "category": "Characters",
+      "question": "Who was Severus Snape secretly in love with for most of his life?",
+      "options": [
+        "Lily Potter",
+        "Minerva McGonagall",
+        "Bellatrix Lestrange",
+        "Narcissa Malfoy"
+      ],
+      "correctAnswer": "Lily Potter"
+    },
+    {
+      "id": "hp-133",
+      "movieNumber": 8,
+      "movie": "Harry Potter and the Deathly Hallows: Part 2",
+      "difficulty": "medium",
+      "category": "Plot",
+      "question": "Who kills Voldemort's snake, Nagini, with the Sword of Gryffindor?",
+      "options": [
+        "Neville Longbottom",
+        "Harry Potter",
+        "Ron Weasley",
+        "Molly Weasley"
+      ],
+      "correctAnswer": "Neville Longbottom"
+    },
+    {
+      "id": "hp-134",
+      "movieNumber": 8,
+      "movie": "Harry Potter and the Deathly Hallows: Part 2",
+      "difficulty": "hard",
+      "category": "Plot",
+      "question": "In the film, who accidentally destroys the diadem Horcrux while unleashing an uncontrollable fire?",
+      "options": [
+        "Gregory Goyle",
+        "Vincent Crabbe",
+        "Draco Malfoy",
+        "Blaise Zabini"
+      ],
+      "correctAnswer": "Gregory Goyle"
+    },
+    {
+      "id": "hp-135",
+      "movieNumber": 8,
+      "movie": "Harry Potter and the Deathly Hallows: Part 2",
+      "difficulty": "medium",
+      "category": "Magic & Objects",
+      "question": "What powerful, uncontrollable fire is unleashed in the Room of Requirement?",
+      "options": [
+        "Fiendfyre",
+        "A Basilisk's venom",
+        "Dragon fire",
+        "The Killing Curse"
+      ],
+      "correctAnswer": "Fiendfyre"
+    },
+    {
+      "id": "hp-136",
+      "movieNumber": 8,
+      "movie": "Harry Potter and the Deathly Hallows: Part 2",
+      "difficulty": "medium",
+      "category": "Places",
+      "question": "Whose vault at Gringotts do Harry, Ron, and Hermione break into?",
+      "options": [
+        "The Lestranges' vault",
+        "The Malfoys' vault",
+        "Dumbledore's vault",
+        "Harry's own vault"
+      ],
+      "correctAnswer": "The Lestranges' vault"
+    },
+    {
+      "id": "hp-137",
+      "movieNumber": 8,
+      "movie": "Harry Potter and the Deathly Hallows: Part 2",
+      "difficulty": "easy",
+      "category": "Creatures",
+      "question": "What creature helps the trio escape from deep within Gringotts?",
+      "options": [
+        "A dragon",
+        "A Hippogriff",
+        "A Thestral",
+        "A Phoenix"
+      ],
+      "correctAnswer": "A dragon"
+    },
+    {
+      "id": "hp-138",
+      "movieNumber": 8,
+      "movie": "Harry Potter and the Deathly Hallows: Part 2",
+      "difficulty": "medium",
+      "category": "Characters",
+      "question": "Which goblin helps the trio break into Gringotts?",
+      "options": [
+        "Griphook",
+        "Kreacher",
+        "Dobby",
+        "Filch"
+      ],
+      "correctAnswer": "Griphook"
+    },
+    {
+      "id": "hp-139",
+      "movieNumber": 8,
+      "movie": "Harry Potter and the Deathly Hallows: Part 2",
+      "difficulty": "medium",
+      "category": "Magic & Objects",
+      "question": "Which Horcrux do Ron and Hermione destroy inside the Gringotts vault?",
+      "options": [
+        "Helga Hufflepuff's cup",
+        "Rowena Ravenclaw's diadem",
+        "Salazar Slytherin's locket",
+        "Tom Riddle's diary"
+      ],
+      "correctAnswer": "Helga Hufflepuff's cup"
+    },
+    {
+      "id": "hp-140",
+      "movieNumber": 8,
+      "movie": "Harry Potter and the Deathly Hallows: Part 2",
+      "difficulty": "hard",
+      "category": "Characters",
+      "question": "Whose ghost helps Harry locate the diadem Horcrux?",
+      "options": [
+        "The Grey Lady (Helena Ravenclaw)",
+        "Moaning Myrtle",
+        "Nearly Headless Nick",
+        "The Bloody Baron"
+      ],
+      "correctAnswer": "The Grey Lady (Helena Ravenclaw)"
+    },
+    {
+      "id": "hp-141",
+      "movieNumber": 8,
+      "movie": "Harry Potter and the Deathly Hallows: Part 2",
+      "difficulty": "medium",
+      "category": "Plot",
+      "question": "Why does the Elder Wand ultimately fail Voldemort in the final duel?",
+      "options": [
+        "Because Harry, not Voldemort, is its true master",
+        "It runs out of magic",
+        "Harry uses the Resurrection Stone against him",
+        "His snake betrays him"
+      ],
+      "correctAnswer": "Because Harry, not Voldemort, is its true master"
+    },
+    {
+      "id": "hp-142",
+      "movieNumber": 8,
+      "movie": "Harry Potter and the Deathly Hallows: Part 2",
+      "difficulty": "medium",
+      "category": "Plot",
+      "question": "What does Harry do with the Elder Wand after defeating Voldemort?",
+      "options": [
+        "He breaks it and discards it",
+        "He keeps it forever",
+        "He gives it to Ron",
+        "He buries it with Dumbledore"
+      ],
+      "correctAnswer": "He breaks it and discards it"
+    },
+    {
+      "id": "hp-143",
+      "movieNumber": 8,
+      "movie": "Harry Potter and the Deathly Hallows: Part 2",
+      "difficulty": "medium",
+      "category": "Plot",
+      "question": "In the epilogue, what name does Harry give one of his sons?",
+      "options": [
+        "Albus Severus",
+        "James Sirius",
+        "Remus Fred",
+        "Ted Lupin"
+      ],
+      "correctAnswer": "Albus Severus"
+    },
+    {
+      "id": "hp-144",
+      "movieNumber": 8,
+      "movie": "Harry Potter and the Deathly Hallows: Part 2",
+      "difficulty": "easy",
+      "category": "Characters",
+      "question": "Which two couples are shown together with children in the epilogue?",
+      "options": [
+        "Harry & Ginny, and Ron & Hermione",
+        "Harry & Hermione, and Ron & Ginny",
+        "Neville & Luna, and Harry & Ginny",
+        "Ron & Lavender, and Harry & Cho"
+      ],
+      "correctAnswer": "Harry & Ginny, and Ron & Hermione"
+    },
+    {
+      "id": "hp-145",
+      "movieNumber": 0,
+      "movie": "General / Across the Series",
+      "difficulty": "easy",
+      "category": "Trivia",
+      "question": "Who wrote the novels the Harry Potter films are based on?",
+      "options": [
+        "J.K. Rowling",
+        "J.R.R. Tolkien",
+        "C.S. Lewis",
+        "Suzanne Collins"
+      ],
+      "correctAnswer": "J.K. Rowling"
+    },
+    {
+      "id": "hp-146",
+      "movieNumber": 0,
+      "movie": "General / Across the Series",
+      "difficulty": "medium",
+      "category": "Trivia",
+      "question": "Who directed the first two Harry Potter films?",
+      "options": [
+        "Chris Columbus",
+        "Alfonso Cuarón",
+        "David Yates",
+        "Mike Newell"
+      ],
+      "correctAnswer": "Chris Columbus"
+    },
+    {
+      "id": "hp-147",
+      "movieNumber": 0,
+      "movie": "General / Across the Series",
+      "difficulty": "easy",
+      "category": "Places",
+      "question": "What are the four houses of Hogwarts?",
+      "options": [
+        "Gryffindor, Hufflepuff, Ravenclaw, and Slytherin",
+        "Gryffindor, Beauxbatons, Ravenclaw, and Slytherin",
+        "Durmstrang, Hufflepuff, Ravenclaw, and Slytherin",
+        "Gryffindor, Hufflepuff, Ilvermorny, and Slytherin"
+      ],
+      "correctAnswer": "Gryffindor, Hufflepuff, Ravenclaw, and Slytherin"
+    },
+    {
+      "id": "hp-148",
+      "movieNumber": 0,
+      "movie": "General / Across the Series",
+      "difficulty": "medium",
+      "category": "Trivia",
+      "question": "Which actor plays Severus Snape throughout the film series?",
+      "options": [
+        "Alan Rickman",
+        "Gary Oldman",
+        "Ralph Fiennes",
+        "Jason Isaacs"
+      ],
+      "correctAnswer": "Alan Rickman"
+    },
+    {
+      "id": "hp-149",
+      "movieNumber": 0,
+      "movie": "General / Across the Series",
+      "difficulty": "medium",
+      "category": "Trivia",
+      "question": "Which actor takes over the role of Albus Dumbledore from Prisoner of Azkaban onward?",
+      "options": [
+        "Michael Gambon",
+        "Richard Harris",
+        "Ian McKellen",
+        "Jim Broadbent"
+      ],
+      "correctAnswer": "Michael Gambon"
+    },
+    {
+      "id": "hp-150",
+      "movieNumber": 0,
+      "movie": "General / Across the Series",
+      "difficulty": "medium",
+      "category": "Trivia",
+      "question": "Which actor plays Lord Voldemort in his fully-restored physical form?",
+      "options": [
+        "Ralph Fiennes",
+        "Alan Rickman",
+        "Gary Oldman",
+        "Jason Isaacs"
+      ],
+      "correctAnswer": "Ralph Fiennes"
+    }
+  ]
+}
